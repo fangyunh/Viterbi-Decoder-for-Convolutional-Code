@@ -1,0 +1,21 @@
+D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv {2 {vlog -work work -sv -stats=none D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Warning: D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv(270): (vlog-13314) Defaulting port 'pm' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+** Warning: D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv(271): (vlog-13314) Defaulting port 'bm' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+** Warning: D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv(311): (vlog-13314) Defaulting port 'decisions' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+** Warning: D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv(312): (vlog-13314) Defaulting port 'new_pm' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+-- Compiling package viterbi_decoder_sv_unit
+-- Compiling module quantizer
+-- Compiling module tb_viterbi_decoder
+-- Compiling module bmc
+-- Compiling module acs
+** Warning: D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv(270): (vlog-13314) Defaulting port 'pm' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+** Warning: D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv(271): (vlog-13314) Defaulting port 'bm' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+-- Compiling module viterbi_decoder
+** Warning: D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv(311): (vlog-13314) Defaulting port 'decisions' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+** Warning: D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv(312): (vlog-13314) Defaulting port 'new_pm' kind to 'var' rather than 'wire' due to default compile option setting of -svinputport=relaxed.
+
+Top level modules:
+	tb_viterbi_decoder
+
+} {} {}}

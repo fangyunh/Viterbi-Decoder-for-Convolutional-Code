@@ -1,0 +1,166 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/RPI/S2025/ECSE_FPGA/project2
+vacs
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 DXx4 work 23 viterbi_decoder_sv_unit 0 22 55d6A15zA5fgH5N:C6bjJ2
+Z2 !s110 1744941783
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+!i10b 1
+!s100 ^VdzDmIDj>DVNlGLUf?P;2
+ITP_VkgjW]lWZbVHVJTWmz3
+Z4 !s105 viterbi_decoder_sv_unit
+S1
+Z5 dD:/RPI/S2025/ECSE_VLSI/Viterbi_decoder
+Z6 w1744941777
+Z7 8D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv
+Z8 FD:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv
+!i122 13
+L0 269 34
+Z9 OV;L;2020.1;71
+31
+Z10 !s108 1744941783.000000
+!s107 D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv|
+Z11 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv|
+!i113 1
+Z12 o-work work -sv
+Z13 tCvgOpt 0
+vbmc
+R0
+R1
+R2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 `i1JbOiLD39E;4GZ=10@U2
+IPM6fjJnZB2eDIM3_fUPBW1
+R4
+S1
+R5
+R6
+R7
+R8
+!i122 13
+L0 235 32
+R9
+31
+R10
+Z14 !s107 D:/RPI/S2025/ECSE_VLSI/Viterbi_decoder/viterbi_decoder.sv|
+R11
+!i113 1
+R12
+R13
+vquantizer
+R0
+R1
+R2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 >Fko7JWPo`f5SbDgW7X@a0
+IEZMSB=Y3O]An2OI8^BDk^3
+R4
+S1
+R5
+R6
+R7
+R8
+!i122 13
+L0 10 20
+R9
+31
+R10
+R14
+R11
+!i113 1
+R12
+R13
+vtb_viterbi_decoder
+R0
+R1
+R2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 RXYSS2:i1U?z[:X5?QzQ@3
+IPn:9bAbIE^P?LCK87`PK?1
+R4
+S1
+R5
+R6
+R7
+R8
+!i122 13
+L0 31 201
+R9
+31
+R10
+R14
+R11
+!i113 1
+R12
+R13
+vviterbi_decoder
+R0
+R1
+R2
+R3
+r1
+!s85 0
+!i10b 1
+!s100 lh6hUFBc0JlOQ4>gCiUlb2
+I648>dRhUPaAaK`BT:a4n=0
+R4
+S1
+R5
+R6
+R7
+R8
+!i122 13
+L0 305 41
+R9
+31
+R10
+R14
+R11
+!i113 1
+R12
+R13
+Xviterbi_decoder_sv_unit
+R0
+R2
+V55d6A15zA5fgH5N:C6bjJ2
+r1
+!s85 0
+!i10b 1
+!s100 M4UE<efWCd@mzbgdT2`7c0
+I55d6A15zA5fgH5N:C6bjJ2
+!i103 1
+S1
+R5
+R6
+R7
+R8
+!i122 13
+L0 3 0
+R9
+31
+R10
+R14
+R11
+!i113 1
+R12
+R13
